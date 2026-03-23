@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Source — Mycélium</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo-link">
+        <h1 class="logo">Mycélium</h1>
+      </a>
+      <p class="tagline">Source — publication (PDF)</p>
+    </div>
+  </header>
+
+  <main class="main main-source">
+    <a href="index.html" id="back-to-article" class="back-link">← Retour</a>
+    <div id="source-content" class="source-content">
+      <div class="source-card">
+        <h2 id="source-title" class="source-title">Chargement…</h2>
+        <p id="source-description" class="source-description"></p>
+        <div class="source-actions">
+          <a id="download-pdf" href="#" class="btn btn-primary" download>
+            Télécharger le PDF
+          </a>
+          <a id="open-pdf" href="#" class="btn btn-secondary" target="_blank" rel="noopener">
+            Ouvrir le PDF dans un nouvel onglet
+          </a>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>Mycélium — Données extraites de publications scientifiques</p>
+  </footer>
+
+  <script>
+    (function() {
+      const params = new URLSearchParams(window.location.search);
+      const pdf = params.get('pdf') || '';
+      const title = params.get('title') || 'Source';
+      const sourceCitation = params.get('source') || '';
+      const articleSlug = (params.get('article') || '').trim();
+
+      const basePath = articleSlug
+        ? 'articles/' + encodeURIComponent(articleSlug) + '/'
+        : 'articles/';
+      const pdfPath = pdf ? basePath + decodeURIComponent(pdf) : '';
+
+      const back = document.getElementById('back-to-article');
+      if (back && articleSlug) {
+        back.href = 'index.html?article=' + encodeURIComponent(articleSlug);
+        back.textContent = '← Retour à l’article';
+      }
+
+      document.getElementById('source-title').textContent = title || (pdf || 'Source');
+      const descEl = document.getElementById('source-description');
+      if (sourceCitation) {
+        descEl.innerHTML = 'Source : <cite>' + sourceCitation.replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</cite>.';
+      } else {
+        descEl.textContent = pdf
+          ? 'Cette donnée provient de la publication suivante. Vous pouvez télécharger ou ouvrir le document PDF.'
+          : 'Aucune source sélectionnée.';
+      }
+
+      const downloadLink = document.getElementById('download-pdf');
+      const openLink = document.getElementById('open-pdf');
+
+      if (pdfPath) {
+        downloadLink.href = pdfPath;
+        downloadLink.download = pdf;
+        downloadLink.style.display = 'inline-flex';
+        openLink.href = pdfPath;
+        openLink.style.display = 'inline-flex';
+      } else {
+        downloadLink.style.display = 'none';
+        openLink.style.display = 'none';
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+*.log
+
+# Secrets & API keys (API_KEY, etc. — use .env locally, never commit)
+.env
+.env.*
+*.env
+!.env.example
+secrets.json
+*.pem
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

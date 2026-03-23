@@ -1,0 +1,79 @@
+{
+  "slug": "profilage_predictif",
+  "generated_at": "2026-03-23",
+  "title": "La place que prend le scroll dans ton cerveau",
+  "subtitle": "Les vidéos courtes peuvent-elles vraiment affecter ta concentration et ton humeur ?",
+  "deck": "Une revue scientifique récente a analysé 17 études sur les effets des vidéos courtes (TikTok, Reels, Shorts) sur l'attention, la mémoire et la santé mentale des jeunes adultes. Les résultats sont nuancés, mais méritent qu'on s'y arrête.",
+  "reading_time_min": 6,
+  "sections": [
+    {
+      "id": "intro_sfv",
+      "heading": "Des vidéos partout, tout le temps",
+      "paragraphs": [
+        "TikTok, Instagram Reels, YouTube Shorts : ces plateformes de vidéos courtes sont devenues incontournables. Aux États-Unis, 95 % des ados utilisent les réseaux sociaux chaque jour, et 35 % se disent « presque constamment » en ligne. Ces formats ultra-rapides, pilotés par des algorithmes, sont conçus pour capter ton attention le plus longtemps possible.",
+        "Mais que se passe-t-il dans ta tête quand tu scrolles pendant des heures ? Une équipe de chercheurs de l'université de Coventry (Royaume-Uni) a passé en revue 17 études scientifiques pour tenter de répondre à cette question."
+      ],
+      "metaphor_box": "Imagine ton cerveau comme un muscle. Si tu ne fais que des sprints très courts, tu risques de perdre l'habitude de courir un marathon. Les vidéos de 15 secondes, c'est un peu pareil : elles entraînent ton attention à zapper, pas à se concentrer longtemps."
+    },
+    {
+      "id": "effets_attention",
+      "heading": "Attention fragmentée et contrôle affaibli",
+      "paragraphs": [
+        "Plusieurs études montrent un lien entre une utilisation fréquente des vidéos courtes et des difficultés à maintenir son attention. Des mesures par électroencéphalogramme (EEG) révèlent que les gros utilisateurs ont une activité cérébrale réduite dans les zones liées au contrôle de soi, même si leurs performances aux tests restent parfois correctes.",
+        "D'autres recherches indiquent que les personnes qui regardent beaucoup de vidéos courtes ont plus de mal à résister aux distractions, à se concentrer sur des tâches longues, ou à gérer leurs impulsions. Ce phénomène touche aussi la mémoire : utiliser Instagram pendant qu'on écoute quelque chose réduit significativement ce qu'on retient."
+      ],
+      "metaphor_box": null
+    },
+    {
+      "id": "sante_mentale",
+      "heading": "Anxiété, ennui et usage compulsif",
+      "paragraphs": [
+        "Côté santé mentale, les résultats sont plus contrastés. Certaines études trouvent un lien entre usage intensif et anxiété accrue, surtout quand les vidéos servent à fuir des émotions désagréables. L'ennui joue aussi un rôle central : les personnes qui s'ennuient facilement auraient tendance à scroller davantage, ce qui renforce un cercle vicieux.",
+        "En revanche, le lien avec la dépression n'est pas clairement établi. Et regarder des vidéos drôles peut même améliorer l'humeur à court terme. Ce n'est donc pas le temps d'écran en soi qui pose problème, mais plutôt la façon dont on utilise ces plateformes et les raisons qui nous y poussent."
+      ],
+      "metaphor_box": "C'est comme grignoter : manger un carré de chocolat pour se faire plaisir, ce n'est pas pareil que vider le paquet pour oublier un stress. Ce qui compte, c'est le « pourquoi » derrière le geste."
+    },
+    {
+      "id": "limites_etudes",
+      "heading": "Ce que la science ne sait pas encore",
+      "paragraphs": [
+        "Attention : la plupart de ces études sont des « photos » prises à un instant donné, pas des suivis sur plusieurs années. On ne peut donc pas affirmer que les vidéos courtes causent directement ces effets. Peut-être que les personnes déjà anxieuses ou distraites sont simplement plus attirées par ce type de contenu.",
+        "Les chercheurs appellent à davantage d'études sur le long terme et à des méthodes plus variées pour mieux comprendre ce qui se passe vraiment."
+      ],
+      "metaphor_box": null
+    }
+  ],
+  "key_takeaways": [
+    "L'usage fréquent de vidéos courtes est associé à des difficultés d'attention et de contrôle de soi.",
+    "L'anxiété et l'usage compulsif sont plus souvent liés à ces plateformes que la dépression.",
+    "Regarder des vidéos pour fuir l'ennui ou le stress peut renforcer un cercle vicieux.",
+    "Les effets dépendent beaucoup de la façon dont on utilise ces applis, pas seulement du temps passé.",
+    "La recherche manque encore de recul pour établir des liens de cause à effet."
+  ],
+  "figures": [],
+  "limitations": "Ces conclusions reposent principalement sur des études transversales (un seul moment d'observation) et des questionnaires auto-déclarés, ce qui limite la possibilité d'établir des liens de causalité. Les échantillons sont souvent composés d'étudiants, ce qui rend les résultats difficiles à généraliser à tous les jeunes. Enfin, l'addiction aux vidéos courtes n'est pas reconnue comme un trouble officiel dans les classifications médicales actuelles.",
+  "practical_intro": "Voici quelques pistes pour garder le contrôle sur ton usage, sans culpabiliser.",
+  "practical_tips": [
+    "Fixe-toi des limites de temps sur tes applis (la plupart proposent cette option dans les paramètres).",
+    "Évite de scroller juste avant de dormir ou pendant que tu travailles ou révises.",
+    "Si tu te sens stressé·e ou que tu t'ennuies, essaie une autre activité avant de dégainer ton téléphone.",
+    "Fais des pauses régulières : pose ton écran et bouge, même cinq minutes.",
+    "Parle de ton usage avec un adulte de confiance si tu sens que tu perds le contrôle.",
+    "Rappelle-toi que les algorithmes sont conçus pour te garder connecté·e : ce n'est pas un échec personnel de se faire « happer »."
+  ],
+  "glossary": [
+    "Vidéo courte (SFV) : contenu vidéo de quelques secondes à quelques minutes, typique de TikTok, Reels ou Shorts.",
+    "Fonction exécutive : capacité du cerveau à planifier, se concentrer, résister aux impulsions et s'adapter.",
+    "Étude transversale : recherche qui observe un groupe à un moment donné, sans suivi dans le temps.",
+    "Algorithme : programme informatique qui choisit les contenus à te montrer en fonction de tes habitudes.",
+    "Régulation émotionnelle : capacité à gérer ses émotions de façon adaptée."
+  ],
+  "sources_index": [
+    "2025.08.27.25334540v2.full.pdf",
+    "2301.04945v2.pdf",
+    "AJPOR2025-algorithm-awareness-and-user-motivation-as-predictors-of-tiktok-engagement-among-generation-z-in-south-jakarta.pdf",
+    "jain-et-al-2025-exploring-problematic-tiktok-use-and-mental-health-issues-a-systematic-review-of-empirical-studies.pdf",
+    "salles-2025-affect-and-prediction-in-short-video-social-media-recommendation-algorithm-tiktok-and-the-missing-half.pdf",
+    "socsci-12-00465.pdf"
+  ]
+}

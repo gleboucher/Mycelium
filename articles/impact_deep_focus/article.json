@@ -1,0 +1,126 @@
+{
+  "slug": "impact_deep_focus",
+  "generated_at": "2026-03-23",
+  "title": "Attention ! Votre cerveau perd le contrôle",
+  "subtitle": "Ce que la science révèle sur l'attention, la mémoire et le self-control des jeunes.",
+  "deck": "TikTok, Reels, Shorts : les vidéos de quelques secondes captent des milliards de regards chaque jour. Mais que se passe-t-il dans le cerveau des ados et jeunes adultes qui scrollent sans fin ? Une revue systématique de 23 études dresse un bilan préoccupant.",
+  "reading_time_min": 6,
+  "sections": [
+    {
+      "id": "intro_phenomene",
+      "heading": "Un format conçu pour captiver",
+      "paragraphs": [
+        "En 2025, TikTok compte environ 955 millions d'utilisateurs dans le monde, et YouTube Shorts cumule plus de 70 milliards de vues quotidiennes. Ces chiffres vertigineux illustrent l'essor fulgurant des vidéos courtes, ces contenus de quelques secondes à quelques minutes, pensés pour être regardés en boucle.",
+        "Le format n'est pas anodin : suspense, montage rapide, algorithmes personnalisés… tout est fait pour maintenir l'attention et donner envie de « swiper » encore. Mais cette captation permanente a un coût cognitif, surtout chez les adolescents et jeunes adultes dont le cerveau est encore en plein développement."
+      ],
+      "metaphor_box": "Imaginez un distributeur de bonbons qui vous en donne un nouveau toutes les dix secondes, sans jamais s'arrêter. Difficile de résister, et encore plus difficile de se concentrer sur autre chose ensuite."
+    },
+    {
+      "id": "attention_touchee",
+      "heading": "L'attention, première victime",
+      "paragraphs": [
+        "La revue systématique publiée en 2026 dans l'International Journal of Adolescence and Youth a analysé 23 études portant sur plus de 22 000 jeunes âgés de 11 à 31 ans. Résultat : l'attention est la fonction cognitive la plus affectée par l'addiction aux vidéos courtes (SVA).",
+        "Les études montrent des corrélations négatives entre SVA et contrôle attentionnel, capacité à se concentrer, et durée d'attention. Autrement dit, plus on est « accro », plus on a du mal à rester focalisé sur une tâche. Des travaux expérimentaux confirment que les utilisateurs intensifs présentent davantage de distractions pendant et après le visionnage."
+      ],
+      "metaphor_box": null
+    },
+    {
+      "id": "selfcontrol_memoire",
+      "heading": "Self-control et mémoire sous pression",
+      "paragraphs": [
+        "Le self-control — cette capacité à résister aux impulsions — apparaît comme un facteur protecteur majeur. Sept études de la revue montrent que les personnes ayant un bon contrôle de soi sont moins susceptibles de développer une addiction. À l'inverse, l'impulsivité et l'ennui augmentent la vulnérabilité.",
+        "La mémoire de travail est également touchée. Plusieurs recherches associent l'usage excessif de vidéos courtes à des déficits de mémoire, notamment pour retenir des informations verbales ou maintenir son attention sur une tâche d'apprentissage. Une autre revue souligne que le temps d'écran prolongé peut altérer les capacités d'imagerie mentale chez les enfants."
+      ],
+      "metaphor_box": "Le self-control, c'est un peu comme un muscle : plus on l'entraîne, plus il est efficace pour résister à la tentation de « juste une vidéo de plus »."
+    },
+    {
+      "id": "consequences_scolaires",
+      "heading": "Des répercussions sur les études",
+      "paragraphs": [
+        "Les effets ne restent pas confinés au cerveau : ils se traduisent dans la vie quotidienne. Plusieurs études de la revue associent l'addiction aux vidéos courtes à une baisse des performances scolaires, une réduction du temps d'étude et une procrastination accrue.",
+        "L'explication ? Un enchaînement de perturbations : l'attention fragmentée rend l'apprentissage moins efficace, la mémoire de travail affaiblie complique la rétention d'informations, et la surcharge d'informations (« information overload ») épuise les ressources cognitives. Le cercle vicieux peut s'installer."
+      ],
+      "metaphor_box": null
+    },
+    {
+      "id": "pistes_protection",
+      "heading": "Des pistes pour se protéger",
+      "paragraphs": [
+        "Bonne nouvelle : certains facteurs peuvent limiter les dégâts. L'exercice physique, par exemple, réduit l'addiction aux vidéos courtes en partie parce qu'il renforce le self-control. Une orientation vers le futur (penser à ses objectifs à long terme) aide aussi à mieux réguler sa consommation.",
+        "Les chercheurs insistent sur l'importance d'interventions ciblées : apprendre aux jeunes à reconnaître les mécanismes de captation, développer leur littératie numérique, et encourager des usages actifs (créer, interagir) plutôt que passifs (scroller sans fin). Le contexte d'utilisation compte autant que le temps passé."
+      ],
+      "metaphor_box": null
+    }
+  ],
+  "key_takeaways": [
+    "L'addiction aux vidéos courtes affecte principalement l'attention et le self-control chez les jeunes.",
+    "La mémoire de travail et la prise de décision peuvent aussi être perturbées.",
+    "Un bon self-control protège contre l'usage excessif ; l'ennui et l'impulsivité augmentent le risque.",
+    "Les conséquences se répercutent sur les résultats scolaires et la capacité à apprendre.",
+    "L'exercice physique et une vision orientée vers le futur aident à réguler sa consommation."
+  ],
+  "figures": [
+    {
+      "id": "fig_cognitive_domains",
+      "title": "Fonctions cognitives affectées par l'addiction aux vidéos courtes",
+      "caption": "L'attention et le self-control sont les domaines les plus fréquemment impactés selon la revue systématique de 23 études.",
+      "figure_type": "chart",
+      "graph": null,
+      "chart": {
+        "title": "Domaines cognitifs étudiés",
+        "chart_type": "bar",
+        "value_label": "Nombre d'études",
+        "categories": [
+          {
+            "label": "Attention",
+            "value": 12.0
+          },
+          {
+            "label": "Self-control",
+            "value": 7.0
+          },
+          {
+            "label": "Mémoire",
+            "value": 3.0
+          },
+          {
+            "label": "Prise de décision",
+            "value": 3.0
+          },
+          {
+            "label": "Biais cognitif",
+            "value": 2.0
+          },
+          {
+            "label": "Engagement cognitif",
+            "value": 2.0
+          }
+        ],
+        "source": "Mona et al., 2026"
+      }
+    }
+  ],
+  "limitations": "La grande majorité des études analysées (20 sur 23) ont été menées en Chine, ce qui limite la généralisation des résultats à d'autres contextes culturels. La plupart sont des études transversales et corrélationnelles : elles montrent des liens, mais ne prouvent pas que les vidéos courtes causent directement les déficits observés. D'autres facteurs (sommeil, contexte familial, type de contenu) peuvent jouer un rôle. Enfin, les mesures reposent souvent sur des questionnaires auto-déclarés, ce qui peut introduire des biais.",
+  "practical_intro": "Voici quelques gestes simples pour garder le contrôle sur ta consommation de vidéos courtes.",
+  "practical_tips": [
+    "Fixe-toi une limite de temps avant d'ouvrir l'appli (par exemple 15 ou 30 minutes) et utilise un minuteur.",
+    "Désactive les notifications pour éviter d'être happé·e à chaque instant.",
+    "Privilégie les moments actifs : crée, commente, interagis, plutôt que de scroller passivement.",
+    "Fais une pause physique entre deux sessions d'écran — même cinq minutes de marche aident.",
+    "Parle de tes habitudes numériques avec un adulte de confiance si tu sens que tu perds le contrôle.",
+    "Avant de réviser ou de te concentrer sur une tâche, évite de regarder des vidéos courtes : ton attention sera plus disponible."
+  ],
+  "glossary": [
+    "Addiction aux vidéos courtes (SVA) : usage compulsif et difficile à contrôler des plateformes de vidéos courtes comme TikTok ou Reels.",
+    "Self-control : capacité à réguler ses impulsions et à résister aux tentations immédiates.",
+    "Mémoire de travail : système qui permet de retenir et manipuler des informations pendant une courte durée pour accomplir une tâche.",
+    "Contrôle attentionnel : capacité à diriger et maintenir son attention sur ce qui est pertinent.",
+    "Étude transversale : recherche qui observe un groupe à un moment donné, sans suivi dans le temps.",
+    "Corrélation : lien statistique entre deux variables, qui ne signifie pas forcément que l'une cause l'autre."
+  ],
+  "sources_index": [
+    "Short video addiction and its impact on cognitive functioning in adolescents and youth  a systematic review.pdf",
+    "The_Impact_of_Screen_Time_on_Working_Memory_Functi.pdf",
+    "nihpp-2024.09.05.611495v1.pdf"
+  ]
+}

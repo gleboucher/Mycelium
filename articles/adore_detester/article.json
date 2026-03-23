@@ -1,0 +1,140 @@
+{
+  "slug": "adore_detester",
+  "generated_at": "2026-03-23",
+  "title": "TikTok : quand l'algorithme te connaît mieux que toi",
+  "subtitle": "Comment la page « Pour toi » façonne ce que tu vois, ressens et",
+  "deck": "L'algorithme de TikTok apprend de chaque like, chaque seconde passée sur une vidéo. Mais que se passe-t-il quand on comprend comment il fonctionne ? Des études récentes montrent que cette conscience change notre façon d'utiliser l'application — et peut même protéger notre bien-être.",
+  "reading_time_min": 6,
+  "sections": [
+    {
+      "id": "intro_algo",
+      "heading": "Un fil personnalisé qui apprend de toi",
+      "paragraphs": [
+        "Contrairement à d'autres réseaux sociaux où tu vois surtout les publications de tes amis, TikTok fonctionne différemment. Son algorithme analyse ce que tu regardes, combien de temps tu restes sur chaque vidéo, ce que tu likes ou partages. À partir de ces données, il construit ta page « Pour toi » — un flux de contenus censé correspondre exactement à tes goûts.",
+        "Ce système est redoutablement efficace. Une étude menée auprès de 423 jeunes utilisateurs à Jakarta montre que les motivations principales sur TikTok sont le divertissement, l'expression de soi et l'interaction sociale. L'algorithme répond à ces besoins en proposant des vidéos qui captent l'attention — parfois au point de rendre l'expérience « addictive », selon les chercheurs."
+      ],
+      "metaphor_box": "Imagine un DJ qui observe la piste de danse : il voit qui bouge sur quel morceau, qui reste immobile, qui quitte la salle. Petit à petit, il ajuste sa playlist pour que tout le monde danse. L'algorithme fait pareil avec tes vidéos."
+    },
+    {
+      "id": "conscience_algo",
+      "heading": "Comprendre l'algorithme change tout",
+      "paragraphs": [
+        "Voici une découverte surprenante : savoir comment fonctionne l'algorithme ne pousse pas à l'utiliser davantage. Au contraire. L'étude de Jakarta révèle que les utilisateurs qui comprennent le système de recommandation s'engagent de manière plus critique et sélective. Même très motivés par TikTok, ils participent moins impulsivement.",
+        "Les chercheurs parlent d'« aversion algorithmique » : quand on réalise que nos choix sont influencés par une machine, on devient plus vigilant. On réfléchit avant de liker, on questionne pourquoi telle vidéo apparaît. Cette conscience agit comme un filtre mental qui modère l'effet de l'algorithme sur notre comportement."
+      ],
+      "metaphor_box": null
+    },
+    {
+      "id": "sante_mentale",
+      "heading": "TikTok, sommeil et humeur : un lien indirect",
+      "paragraphs": [
+        "Une étude polonaise auprès de 173 étudiants universitaires a exploré le lien entre usage problématique de TikTok et symptômes dépressifs. Résultat : ce n'est pas TikTok directement qui affecte l'humeur, mais l'insomnie qui joue un rôle intermédiaire. L'usage excessif perturbe le sommeil, et ce manque de sommeil aggrave les symptômes dépressifs.",
+        "Parmi les étudiants présentant un usage problématique de TikTok (22% de l'échantillon), les niveaux d'insomnie et de dépression étaient significativement plus élevés. Les chercheurs soulignent que 65% des participants souffraient de symptômes d'insomnie et 48% de symptômes dépressifs — des chiffres préoccupants pour cette population."
+      ],
+      "metaphor_box": "C'est comme une réaction en chaîne : scroller tard le soir → mal dormir → se sentir moins bien le lendemain → scroller encore pour se changer les idées. Le cercle peut devenir vicieux."
+    },
+    {
+      "id": "identite_valeurs",
+      "heading": "L'algorithme reflète-t-il qui tu es vraiment ?",
+      "paragraphs": [
+        "Certains utilisateurs ont l'impression que leur page « Pour toi » les connaît mieux qu'eux-mêmes. Des chercheurs ont proposé le concept de « cristal » pour décrire cette expérience : l'algorithme renverrait des facettes de notre personnalité, nous aidant parfois à découvrir des aspects de nous-mêmes — notre humour, nos centres d'intérêt, voire notre identité culturelle ou sexuelle.",
+        "Mais cette image a ses limites. Quand les utilisateurs perçoivent l'algorithme comme manipulateur ou guidé par des intérêts commerciaux, le « cristal se brise » : ils ne croient plus que le contenu reflète vraiment qui ils sont. La confiance dans le système joue donc un rôle clé dans la façon dont on interprète ce qu'on voit."
+      ],
+      "metaphor_box": null
+    },
+    {
+      "id": "conclusion_pistes",
+      "heading": "Vers une utilisation plus consciente",
+      "paragraphs": [
+        "Ces recherches convergent vers une idée centrale : la littératie algorithmique — c'est-à-dire comprendre comment fonctionnent les systèmes de recommandation — peut nous aider à reprendre du contrôle. Non pas en rejetant TikTok, mais en l'utilisant de manière plus intentionnelle.",
+        "Les études montrent aussi que l'algorithme n'est pas tout-puissant. Les utilisateurs « entraînent » activement leur fil en suivant certains comptes, en signalant des contenus non désirés, en variant leurs interactions. Cette relation est bidirectionnelle : l'algorithme nous influence, mais nous l'influençons aussi."
+      ],
+      "metaphor_box": null
+    }
+  ],
+  "key_takeaways": [
+    "L'algorithme TikTok personnalise le contenu selon tes interactions : likes, temps de visionnage, partages.",
+    "Comprendre comment fonctionne l'algorithme rend les utilisateurs plus critiques et sélectifs dans leur engagement.",
+    "L'usage excessif de TikTok peut perturber le sommeil, ce qui aggrave ensuite les symptômes dépressifs.",
+    "La page « Pour toi » peut refléter certains aspects de ton identité, mais cette perception dépend de ta confiance envers le système.",
+    "Tu peux influencer ton algorithme : suivre, ignorer ou signaler des contenus modifie ce que tu vois."
+  ],
+  "figures": [
+    {
+      "id": "fig_prevalence_etudiants",
+      "title": "Prévalence des troubles chez les étudiants polonais",
+      "caption": "Parmi 173 étudiants universitaires, une majorité présentait des symptômes d'insomnie, près de la moitié des symptômes dépressifs, et environ un sur cinq un usage problématique de TikTok.",
+      "figure_type": "chart",
+      "graph": null,
+      "chart": {
+        "title": "Prévalence des symptômes chez les étudiants",
+        "chart_type": "bar",
+        "value_label": "Pourcentage d'étudiants (%)",
+        "categories": [
+          {
+            "label": "Insomnie",
+            "value": 65.0
+          },
+          {
+            "label": "Dépression",
+            "value": 48.0
+          },
+          {
+            "label": "Usage problématique TikTok",
+            "value": 22.0
+          }
+        ],
+        "source": "Rogowska & Lechowicz, 2025"
+      }
+    },
+    {
+      "id": "fig_conscience_algo",
+      "title": "Répartition des niveaux de conscience algorithmique",
+      "caption": "Dans l'étude de Jakarta, les utilisateurs ont été classés selon leur niveau de conscience de l'algorithme : 40% avaient une faible conscience, 32% une conscience moyenne et 28% une conscience élevée.",
+      "figure_type": "chart",
+      "graph": null,
+      "chart": {
+        "title": "Niveaux de conscience algorithmique",
+        "chart_type": "pie",
+        "value_label": null,
+        "categories": [
+          {
+            "label": "Faible",
+            "value": 40.4
+          },
+          {
+            "label": "Moyenne",
+            "value": 31.7
+          },
+          {
+            "label": "Élevée",
+            "value": 27.9
+          }
+        ],
+        "source": "Khulwa et al., 2025"
+      }
+    }
+  ],
+  "limitations": "Ces études présentent plusieurs limites importantes. L'étude de Jakarta porte uniquement sur des jeunes d'une zone urbaine indonésienne, ce qui limite la généralisation à d'autres contextes culturels. L'étude polonaise repose sur un échantillon modeste (173 personnes) avec une surreprésentation féminine (73%), et son design transversal ne permet pas d'établir de liens de cause à effet. Les recherches sur l'identité et les valeurs restent majoritairement qualitatives, avec de petits échantillons. Enfin, l'usage de TikTok est auto-déclaré, ce qui peut introduire des biais. Ces résultats offrent des pistes de réflexion, mais pas de conclusions définitives.",
+  "practical_intro": "Voici quelques gestes simples pour garder le contrôle sur ton expérience TikTok :",
+  "practical_tips": [
+    "Fixe-toi une limite de temps quotidienne et utilise les outils de bien-être numérique intégrés à l'application.",
+    "Évite de scroller au lit : la lumière bleue et la stimulation retardent l'endormissement.",
+    "Utilise le bouton « Pas intéressé » pour entraîner ton algorithme vers des contenus qui te correspondent vraiment.",
+    "Prends conscience de tes réactions : si une vidéo te met mal à l'aise ou te pousse à te comparer, c'est un signal.",
+    "Parle de ce que tu vois sur TikTok avec des amis ou des adultes de confiance — ça aide à prendre du recul.",
+    "Varie tes sources d'information et de divertissement pour éviter de rester enfermé dans une « bulle de filtre »."
+  ],
+  "glossary": [
+    "Algorithme : programme informatique qui trie et recommande du contenu selon des règles et des données d'utilisation.",
+    "Littératie algorithmique : capacité à comprendre comment fonctionnent les systèmes de recommandation et à adapter son comportement en conséquence.",
+    "Bulle de filtre : situation où l'algorithme ne montre que des contenus similaires à ce qu'on a déjà aimé, limitant l'exposition à d'autres points de vue.",
+    "Usage problématique : utilisation excessive qui interfère avec le sommeil, les études ou les relations sociales.",
+    "Aversion algorithmique : tendance à se méfier des recommandations automatisées quand on comprend leur fonctionnement."
+  ],
+  "sources_index": [
+    "151322-algorithm-awareness-and-user-motivation-as-predictors-of-tiktok-engagement-among-generation-z-in-south-jakarta.pdf",
+    "jcm-14-04652.pdf",
+    "socsci-12-00465.pdf"
+  ]
+}

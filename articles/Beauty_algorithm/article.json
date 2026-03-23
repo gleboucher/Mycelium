@@ -1,0 +1,104 @@
+{
+  "slug": "Beauty_algorithm",
+  "generated_at": "2026-03-23",
+  "title": "Filtres, selfies et mal-être : le piège des réseaux sociaux",
+  "subtitle": "Comment Instagram et Snapchat peuvent déformer notre regard sur nous-mêmes",
+  "deck": "Les filtres beauté et les selfies retouchés ne sont pas anodins : ils peuvent nourrir une obsession pour son apparence et pousser certains vers la chirurgie esthétique.",
+  "reading_time_min": 5,
+  "sections": [
+    {
+      "id": "intro_phenomene",
+      "heading": "Quand les réseaux dictent la beauté",
+      "paragraphs": [
+        "Depuis les années 2010, Instagram et Snapchat ont transformé notre rapport à l'image. Ces plateformes nous exposent chaque jour à des milliers de photos retouchées, de visages « parfaits » et de corps sculptés. Résultat : on finit par comparer notre reflet dans le miroir à des images qui n'existent pas vraiment.",
+        "Une étude récente menée en Arabie Saoudite auprès de 1 483 adultes montre que 24 % des utilisateurs de ces réseaux présentent des signes de dysmorphie corporelle, c'est-à-dire une obsession pour des défauts physiques souvent imaginaires ou minimes. C'est bien plus que les 2 % observés dans la population générale."
+      ],
+      "metaphor_box": "Imagine un miroir déformant à la fête foraine : les filtres beauté fonctionnent un peu pareil. Ils te montrent une version « améliorée » de toi, et ton vrai reflet finit par te sembler décevant."
+    },
+    {
+      "id": "temps_ecran_risque",
+      "heading": "Plus d'écran, plus de mal-être ?",
+      "paragraphs": [
+        "Les chercheurs ont découvert un lien clair entre le temps passé sur ces applis et les préoccupations pour son apparence. Ceux qui passent 4 à 7 heures par jour sur Instagram ou Snapchat ont un score de préoccupation corporelle nettement plus élevé que ceux qui y passent moins d'une heure.",
+        "Prendre des selfies et surtout utiliser des filtres pour les retoucher amplifie encore cet effet. Les personnes qui utilisent « toujours » des filtres ont un score de dysmorphie presque deux fois plus élevé que celles qui n'en utilisent jamais."
+      ],
+      "metaphor_box": null
+    },
+    {
+      "id": "chirurgie_esthetique",
+      "heading": "Du filtre au bistouri",
+      "paragraphs": [
+        "Cette insatisfaction ne reste pas virtuelle. L'étude montre que les personnes présentant des signes de dysmorphie corporelle acceptent plus facilement l'idée de recourir à la chirurgie esthétique. Certains chirurgiens parlent même de « dysmorphie Snapchat » : des patients arrivent en consultation avec leur selfie filtré, demandant à ressembler à cette version retouchée d'eux-mêmes.",
+        "Le « corps Instagram » – taille fine, fesses rebondies, cuisses galbées – a été l'idéal dominant pendant près de dix ans. Des célébrités comme les Kardashian l'ont popularisé, et des millions de personnes ont cherché à l'atteindre, parfois au prix d'opérations risquées comme le Brazilian Butt Lift."
+      ],
+      "metaphor_box": null
+    },
+    {
+      "id": "qui_est_touche",
+      "heading": "Qui est le plus vulnérable ?",
+      "paragraphs": [
+        "Les femmes sont presque deux fois plus touchées que les hommes : 29 % d'entre elles présentent des signes de dysmorphie contre 15 % des hommes. Les jeunes adultes de 25 à 29 ans sont également plus à risque.",
+        "Ce n'est pas un hasard : les standards de beauté sur les réseaux visent principalement les femmes, qui subissent davantage de pression sociale sur leur apparence. Et ce sont souvent des hommes qui profitent financièrement de cette industrie (chirurgiens, coachs sportifs), tandis que les femmes en paient le prix psychologique."
+      ],
+      "metaphor_box": null
+    },
+    {
+      "id": "conclusion_pistes",
+      "heading": "Reprendre le contrôle",
+      "paragraphs": [
+        "La bonne nouvelle, c'est que les tendances beauté passent. Le « corps Instagram » commence déjà à être critiqué et remplacé par des idéaux plus naturels. Comprendre que ces standards sont fabriqués et temporaires peut aider à prendre du recul.",
+        "Des outils existent pour mieux se protéger : limiter son temps d'écran, suivre des comptes qui montrent des corps divers, et surtout se rappeler que les images sur les réseaux ne reflètent pas la réalité. Si l'obsession pour son apparence devient envahissante, en parler à un professionnel de santé mentale peut vraiment aider."
+      ],
+      "metaphor_box": null
+    }
+  ],
+  "key_takeaways": [
+    "Plus on passe de temps sur Instagram et Snapchat, plus le risque de développer des préoccupations excessives pour son apparence augmente.",
+    "Utiliser souvent des filtres pour retoucher ses selfies est associé à une plus grande acceptation de la chirurgie esthétique.",
+    "Les femmes et les jeunes adultes sont particulièrement touchés par ces effets.",
+    "Le « corps Instagram » (taille fine, hanches larges) est une tendance beauté qui a influencé des millions de personnes pendant une décennie.",
+    "Prendre conscience que les standards de beauté changent peut aider à moins se comparer aux images retouchées."
+  ],
+  "figures": [
+    {
+      "id": "fig_bdd_temps",
+      "title": "Dysmorphie corporelle selon le temps passé sur les réseaux",
+      "caption": "Plus on passe de temps sur Instagram et Snapchat, plus le risque de présenter des signes de dysmorphie corporelle augmente.",
+      "figure_type": "chart",
+      "graph": null,
+      "chart": {
+        "title": "Prévalence de la dysmorphie selon le temps d'écran quotidien",
+        "chart_type": "bar",
+        "value_label": "% avec signes de dysmorphie",
+        "categories": [
+          {
+            "label": "Moins d'1h/jour",
+            "value": 19.0
+          },
+          {
+            "label": "1-3h/jour",
+            "value": 22.0
+          },
+          {
+            "label": "4-7h/jour",
+            "value": 29.0
+          }
+        ],
+        "source": "Ateq et al., 2024 (n=1483)"
+      }
+    }
+  ],
+  "limitations": "Ces études sont principalement transversales : elles montrent des associations, pas des liens de cause à effet. On ne peut pas affirmer avec certitude que les réseaux sociaux « causent » la dysmorphie corporelle – d'autres facteurs entrent en jeu. De plus, l'étude saoudienne repose sur des réponses auto-déclarées et une population majoritairement féminine (70 %), ce qui peut influencer les résultats. Les données sur le « corps Instagram » proviennent d'une étude qualitative menée en Écosse, donc les conclusions ne s'appliquent pas forcément partout.",
+  "glossary": [
+    "Dysmorphie corporelle (ou trouble dysmorphique corporel) : obsession pour un défaut physique perçu, souvent invisible ou minime pour les autres.",
+    "Filtre beauté : outil intégré aux applis qui modifie automatiquement l'apparence (peau lissée, yeux agrandis, visage affiné).",
+    "Corps Instagram : idéal corporel popularisé dans les années 2010, caractérisé par une taille fine, des hanches larges et des fesses rebondies.",
+    "Brazilian Butt Lift (BBL) : chirurgie esthétique qui augmente le volume des fesses par transfert de graisse."
+  ],
+  "sources_index": [
+    "The lifecycle of a social media beauty trend  a case study of the Instagram body.pdf",
+    "fpubh-12-1324092.pdf",
+    "frai-8-1717267.pdf",
+    "healthcare-12-02153-v2.pdf"
+  ]
+}

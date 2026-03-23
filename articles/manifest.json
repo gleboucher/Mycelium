@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "slug": "adore_detester",
+      "title": "TikTok : quand l'algorithme te connaît mieux que toi",
+      "path": "articles/adore_detester/article.json",
+      "updated": "2026-03-23"
+    },
+    {
+      "slug": "Beauty_algorithm",
+      "title": "Filtres, selfies et mal-être : le piège des réseaux sociaux",
+      "path": "articles/Beauty_algorithm/article.json",
+      "updated": "2026-03-23"
+    },
+    {
+      "slug": "impact_deep_focus",
+      "title": "Attention ! Votre cerveau perd le contrôle",
+      "path": "articles/impact_deep_focus/article.json",
+      "updated": "2026-03-23"
+    },
+    {
+      "slug": "profilage_predictif",
+      "title": "La place que prend le scroll dans ton cerveau",
+      "path": "articles/profilage_predictif/article.json",
+      "updated": "2026-03-23"
+    }
+  ]
+}
