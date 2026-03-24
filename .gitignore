@@ -12,3 +12,8 @@ secrets.json
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
